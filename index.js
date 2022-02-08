@@ -308,7 +308,7 @@ HINT - you may need to study tomorrow's content on arrays
 HINT - try looking up the .includes() method
 */
 
-let input = 'pizzeria';
+let input = 'monkey';
 input = input.toLowerCase();
 
 const vowels = ['a', 'e', 'i', 'o', 'u'];
